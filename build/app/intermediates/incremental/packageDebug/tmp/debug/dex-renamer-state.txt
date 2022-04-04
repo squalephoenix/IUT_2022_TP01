@@ -1,0 +1,4 @@
+#Sun Mar 13 17:56:14 CET 2022
+base.0=/Users/morgan/Documents/GitHub/tp_flutter/tp1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
